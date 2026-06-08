@@ -20,7 +20,7 @@ TEMPLATES = {
             "welcome": {"channel": "đọc-luật-tại-đây", "title": "🎉 Chào mừng đến với vùng đất mới!", "desc": "Hãy chắc chắn rằng bạn đã đọc kỹ các quy định. Sau đó hãy chọn vai trò và tham gia trò chuyện cùng mọi người nhé!"}
         },
         "EN": {
-            "roles": ["Supreme Leader", "Admin", "Moderator", "VIP", "Server Booster", "Media Team", "Pro Gamer", "Active Chatter", "Member", "Lurker"],
+            "roles": ["Supreme Leader", "Admin", "Moderator", "VIP", "VIP+", "VIP++", "Server Booster", "Media Team", "Pro Gamer", "Active Chatter", "Member"],
             "categories": {
                 "📌 SERVER INFORMATION": [("text", "read-rules-here"), ("text", "important-announcements"), ("text", "🎉-giveaways-events"), ("text", "🎨-get-roles"), ("text", "🤝-partnerships")],
                 "🔴 CONTENT HUB": [("text", "live-now"), ("text", "new-youtube-videos"), ("text", "📱-tiktok-shorts"), ("text", "🎬-clips-and-highlights"), ("text", "🎨-fan-art")],
